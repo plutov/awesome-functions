@@ -30,3 +30,6 @@ You want to contribute to this project? [Please follow these recommendations](ht
 - [GCS-To-Big-Query](https://github.com/cloudflare/GCS-To-Big-Query) - Google Cloud Function to push json files from GC Storage to Big Query.
 - [google-cloud-build-slack](https://github.com/Philmod/google-cloud-build-slack) - 
 Slack integration for Google Cloud Build, using Google Cloud Functions to post messages to Slack when a build reaches a specific state.
+- [ImgBot](https://github.com/dabutvin/ImgBot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them.
+- [serverless-url-shortener](https://github.com/JeremyLikness/serverless-url-shortener) - Azure Function for a URL shortening website.
+- [SwaggerDefinition](https://github.com/wobba/AzureFunction-SwaggerDefinition) - Azure function to generate a proper Swagger definition for Azure functions.
