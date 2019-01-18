@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/F_of_x.svg/1234px-F_of_x.svg.png" align="right" height=200>
+
 # Awesome Functions
 
 A curated list of awesome open source Cloud / Lambda / Azure functions.
