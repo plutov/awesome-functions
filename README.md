@@ -13,6 +13,7 @@ You want to contribute to this project? [Please follow these recommendations](ht
 - [aws-backup-lambda](https://github.com/cevoaustralia/aws-backup-lambda) - A utility AWS lambda function to manage EBS and RDS snapshot backups..
 - [aws-lambda-ffmpeg](https://github.com/binoculars/aws-lambda-ffmpeg) - An S3-triggered Amazon Web Services Lambda function that runs your choice of FFmpeg 🎬 commands on a file 🎥 and uploads the outputs to a bucket.
 - [aws-lambda-mirror-dns-function](https://github.com/aws-samples/aws-lambda-mirror-dns-function) - AWS Lambda function to mirror DNS zone from on-premises DNS server to Route 53 private hosted zone.
+- [aws-lambda-libreoffice](https://github.com/shelfio/aws-lambda-libreoffice) - 85 MB LibreOffice to fit inside AWS Lambda (and Google Cloud Functions) compressed with Brotli.
 - [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
 - [bucket-antivirus-function](https://github.com/upsidetravel/bucket-antivirus-function) - Scan new objects added to any s3 bucket using AWS Lambda.
 - [cloudfront-auth](https://github.com/Widen/cloudfront-auth) - An AWS CloudFront Lambda@Edge function to authenticate requests using Google Apps, Microsoft, and GitHub login.
@@ -25,6 +26,7 @@ You want to contribute to this project? [Please follow these recommendations](ht
 
 ## Cloud Functions
 
+- [GCF-Stripe](https://github.com/rldaulton/GCF-Stripe) - A serverless implementation of Stripe using Google Cloud Functions as containerized microservices.
 - [GCS-To-Big-Query](https://github.com/cloudflare/GCS-To-Big-Query) - Google Cloud Function to push json files from GC Storage to Big Query.
 - [google-cloud-build-slack](https://github.com/Philmod/google-cloud-build-slack) - 
 Slack integration for Google Cloud Build, using Google Cloud Functions to post messages to Slack when a build reaches a specific state.
