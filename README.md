@@ -33,6 +33,7 @@ Amazon CloudWatch Events to BuildKite trigger function for AWS Lambda.
 - [elastic-beanstalk-events-to-slack](https://github.com/blueimp/aws-lambda/tree/master/elastic-beanstalk-events-to-slack) - 
 AWS Elastic Beanstalk events to Slack streaming function for AWS Lambda.
 - [github-s3-deploy](https://github.com/nytlabs/github-s3-deploy) - AWS Lambda function, triggered by Github/SNS webhook, to sync new commits in an S3 bucket.
+- [goad](https://github.com/goadapp/goad) - Goad is an AWS Lambda powered, highly distributed, load testing tool https://goad.io
 - [ssh-authorized-keys](https://github.com/blueimp/aws-lambda/tree/master/ssh-authorized-keys) - 
 AWS Lambda function to return authorized keys for EC2 SSH access.
 - [subdomain-redirect](https://github.com/blueimp/aws-lambda/tree/master/subdomain-redirect) - 
