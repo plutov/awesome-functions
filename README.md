@@ -15,6 +15,7 @@ You want to contribute to this project? [Please follow these recommendations](ht
 - [aws-lambda-mirror-dns-function](https://github.com/aws-samples/aws-lambda-mirror-dns-function) - AWS Lambda function to mirror DNS zone from on-premises DNS server to Route 53 private hosted zone.
 - [aws-lambda-libreoffice](https://github.com/shelfio/aws-lambda-libreoffice) - 85 MB LibreOffice to fit inside AWS Lambda (and Google Cloud Functions) compressed with Brotli.
 - [aws-maintenance-lambda](https://github.com/indix/aws-maintenance-lambda) - A lambda function to send alerts (to Slack, HipChat) on AWS maintenance events.
+- [bless](https://github.com/Netflix/bless) - BLESS is an SSH Certificate Authority that runs as an AWS Lambda function and is used to sign SSH public keys.
 - [bucket-antivirus-function](https://github.com/upsidetravel/bucket-antivirus-function) - Scan new objects added to any s3 bucket using AWS Lambda.
 - [cloudfront-auth](https://github.com/Widen/cloudfront-auth) - An AWS CloudFront Lambda@Edge function to authenticate requests using Google Apps, Microsoft, and GitHub login.
 - [github-s3-deploy](https://github.com/nytlabs/github-s3-deploy) - AWS Lambda function, triggered by Github/SNS webhook, to sync new commits in an S3 bucket.
