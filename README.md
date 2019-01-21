@@ -21,7 +21,11 @@ You want to contribute to this project? [Please follow these recommendations](ht
 
 ## Azure Functions
 
+- [azure-appservice-letsencrypt](https://github.com/shibayan/azure-appservice-letsencrypt) - Automated Let's Encrypt issuer for Azure App Service (Web Apps / Functions / Containers).
+- [azure-functions-openalpr](https://github.com/anthonychu/azure-functions-openalpr) - App for reading a license plate from a photo.
+- [functions-dotnet-photo-mosaic](https://github.com/Azure-Samples/functions-dotnet-photo-mosaic) - Use Azure Functions and Microsoft Cognitive Services Custom Vision Service to generate a photo mosaic from an input image.
 - [functions-durable-csharp-bittrex-watcher](https://github.com/jeffhollan/functions-durable-csharp-bittrex-watcher) - Azure Function to monitor the price of coins on Bittrex and notify via SMS when a threshold is crossed.
+- [serverlessnotifications](https://github.com/ealsur/serverlessnotifications) - Serverless notifications with Azure Cosmos DB + Azure Functions + Azure SignalR.
 - [serverless-url-shortener](https://github.com/JeremyLikness/serverless-url-shortener/) - Azure Function for a URL shortening website. Uses serverless functions, Azure Table Storage and Application Insights.
 
 ## Cloud Functions
