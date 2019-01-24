@@ -51,6 +51,7 @@ AWS Lambda function to redirect a domain to its subdomain or parent domain.
 ## Cloud Functions
 
 - [container-builder-github-ci-status](https://github.com/stealthybox/container-builder-github-ci-status) - Google Cloud Function responds to PubSub events on the cloud-builds topic to update GitHub CI status.
+- [gcf-go-image-resizer](https://github.com/didil/gcf-go-image-resizer) - Google Cloud Function to resize images in Go
 - [gcf-recipes-twilio](https://github.com/jasonpolites/gcf-recipes/tree/master/twilio) - Sending SMS messages with Twilio from a Cloud Function.
 - [GCF-Stripe](https://github.com/rldaulton/GCF-Stripe) - A serverless implementation of Stripe using Google Cloud Functions as containerized microservices.
 - [GCS-To-Big-Query](https://github.com/cloudflare/GCS-To-Big-Query) - Google Cloud Function to push json files from GC Storage to Big Query.
