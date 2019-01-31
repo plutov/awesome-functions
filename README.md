@@ -29,9 +29,9 @@ AWS Lambda function to grant the bucket owner full control over an S3 object.
 AWS Lambda@Edge function to add common security headers for static content served via CloudFront.
 - [cloudwatch-alarm-to-slack](https://github.com/blueimp/aws-lambda/tree/master/cloudwatch-alarm-to-slack) - 
 Amazon CloudWatch alarm notifications to Slack streaming function for AWS Lambda.
-- [cloudwatch-events-to-buildkite](https://github.com/blueimp/aws-lambda/tree/master/cloudwatch-events-to-buildkite) - 
-Amazon CloudWatch Events to BuildKite trigger function for AWS Lambda.
+- [cloudwatch-events-to-buildkite](https://github.com/blueimp/aws-lambda/tree/master/cloudwatch-events-to-buildkite) - Amazon CloudWatch Events to BuildKite trigger function for AWS Lambda.
 - [cloudwatch-logs-to-elastic-cloud](https://github.com/blueimp/aws-lambda/tree/master/cloudwatch-logs-to-elastic-cloud) - CloudWatch Logs to Elasticsearch streaming function for AWS Lambda.
+- [ec2-scheduler](https://github.com/awslabs/ec2-scheduler) - The EC2 Scheduler uses a recurring Lambda function to automatically start and stop EC2 instances based on either default schedule or custom schedule defined per EC2 instance.
 - [elastic-beanstalk-events-to-slack](https://github.com/blueimp/aws-lambda/tree/master/elastic-beanstalk-events-to-slack) - 
 AWS Elastic Beanstalk events to Slack streaming function for AWS Lambda.
 - [github-s3-deploy](https://github.com/nytlabs/github-s3-deploy) - AWS Lambda function, triggered by Github/SNS webhook, to sync new commits in an S3 bucket.
@@ -41,6 +41,7 @@ AWS Elastic Beanstalk events to Slack streaming function for AWS Lambda.
 - [lambda-contact-form](https://github.com/cowholio4/lambda-contact-form) - 
 A simple aws-lambda function that allows you to have a contact form on your static website. (hosted on S3/Cloudfront) Currently, emails are sent via SES.
 - [lambda-jwt](https://github.com/kopertop/lambda-jwt) - API Gateway Lambda function to support JSON Web Tokens.
+- [lambda-streams-to-firehose](https://github.com/awslabs/lambda-streams-to-firehose) - AWS Lambda function to forward Stream data to Kinesis Firehose.
 - [lambda-text-extractor](https://github.com/skylander86/lambda-text-extractor) - AWS Lambda functions to extract text from various binary formats.
 - [mxnet-lambda](https://github.com/awslabs/mxnet-lambda) - Reference Lambda function that predicts image labels for a image using an MXNet-built deep learning model. The repo also has pre-built MXNet, OpenCV libraries for use with AWS Lambda.
 - [prerendercloud-lambda-edge](https://github.com/sanfrancesco/prerendercloud-lambda-edge) - Prerender CloudFront with this Lambda@Edge function.
