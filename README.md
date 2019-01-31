@@ -42,6 +42,7 @@ AWS Elastic Beanstalk events to Slack streaming function for AWS Lambda.
 A simple aws-lambda function that allows you to have a contact form on your static website. (hosted on S3/Cloudfront) Currently, emails are sent via SES.
 - [lambda-jwt](https://github.com/kopertop/lambda-jwt) - API Gateway Lambda function to support JSON Web Tokens.
 - [lambda-text-extractor](https://github.com/skylander86/lambda-text-extractor) - AWS Lambda functions to extract text from various binary formats.
+- [mxnet-lambda](https://github.com/awslabs/mxnet-lambda) - Reference Lambda function that predicts image labels for a image using an MXNet-built deep learning model. The repo also has pre-built MXNet, OpenCV libraries for use with AWS Lambda.
 - [prerendercloud-lambda-edge](https://github.com/sanfrancesco/prerendercloud-lambda-edge) - Prerender CloudFront with this Lambda@Edge function.
 - [rdslogs_to_s3](https://github.com/ryanholland/rdslogs_to_s3) - AWS Lambda function to export Amazon RDS MySQL Query Logs to S3.
 - [s3-dynamo-lambda](https://github.com/segmentio/s3-dynamo-lambda) - An example function showing how to count events from s3 in dynamo using lambda.
