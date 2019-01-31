@@ -36,6 +36,7 @@ Amazon CloudWatch Events to BuildKite trigger function for AWS Lambda.
 AWS Elastic Beanstalk events to Slack streaming function for AWS Lambda.
 - [github-s3-deploy](https://github.com/nytlabs/github-s3-deploy) - AWS Lambda function, triggered by Github/SNS webhook, to sync new commits in an S3 bucket.
 - [goad](https://github.com/goadapp/goad) - Goad is an AWS Lambda powered, highly distributed, load testing tool https://goad.io
+- [lambda-chat](https://github.com/cloudnative/lambda-chat) - A chat application without servers - using only AWS Lambda, S3, DynamoDB and SNS.
 - [rdslogs_to_s3](https://github.com/ryanholland/rdslogs_to_s3) - AWS Lambda function to export Amazon RDS MySQL Query Logs to S3.
 - [ssh-authorized-keys](https://github.com/blueimp/aws-lambda/tree/master/ssh-authorized-keys) - 
 AWS Lambda function to return authorized keys for EC2 SSH access.
