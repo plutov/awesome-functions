@@ -42,10 +42,13 @@ AWS Elastic Beanstalk events to Slack streaming function for AWS Lambda.
 A simple aws-lambda function that allows you to have a contact form on your static website. (hosted on S3/Cloudfront) Currently, emails are sent via SES.
 - [lambda-jwt](https://github.com/kopertop/lambda-jwt) - API Gateway Lambda function to support JSON Web Tokens.
 - [rdslogs_to_s3](https://github.com/ryanholland/rdslogs_to_s3) - AWS Lambda function to export Amazon RDS MySQL Query Logs to S3.
+- [s3-dynamo-lambda](https://github.com/segmentio/s3-dynamo-lambda) - An example function showing how to count events from s3 in dynamo using lambda.
 - [ssh-authorized-keys](https://github.com/blueimp/aws-lambda/tree/master/ssh-authorized-keys) - 
 AWS Lambda function to return authorized keys for EC2 SSH access.
 - [subdomain-redirect](https://github.com/blueimp/aws-lambda/tree/master/subdomain-redirect) - 
 AWS Lambda function to redirect a domain to its subdomain or parent domain.
+- [sumologic-aws-lambda](https://github.com/SumoLogic/sumologic-aws-lambda) - A collection of lambda functions to collect data from Cloudwatch, Kinesis, VPC Flow logs, S3, security-hub and AWS Inspector.
+- [svg_to_png](https://github.com/apex/svg_to_png) - Lambda function to convert SVG to PNG using PhantomJS.
 
 ## Azure Functions
 
