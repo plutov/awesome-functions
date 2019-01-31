@@ -12,7 +12,8 @@ You want to contribute to this project? [Please follow these recommendations](ht
 
 - [authorize-ip](https://github.com/blueimp/aws-lambda/tree/master/authorize-ip) - 
 AWS Lambda function to authorize the client IP for an EC2 security group.
-- [aws-backup-lambda](https://github.com/cevoaustralia/aws-backup-lambda) - A utility AWS lambda function to manage EBS and RDS snapshot backups..
+- [aws-backup-lambda](https://github.com/cevoaustralia/aws-backup-lambda) - A utility AWS lambda function to manage EBS and RDS snapshot backups.
+- [aws-lambda-copy-s3-objects](https://github.com/eleven41/aws-lambda-copy-s3-objects) - An AWS Lambda Based Function to Copy S3 Objects.
 - [aws-lambda-create-thumbnail](https://github.com/trinketapp/aws-lambda-create-thumbnail) - Automatically create thumbnails when image added to an AWS S3 bucket.
 - [aws-lambda-ffmpeg](https://github.com/binoculars/aws-lambda-ffmpeg) - An S3-triggered Amazon Web Services Lambda function that runs your choice of FFmpeg 🎬 commands on a file 🎥 and uploads the outputs to a bucket.
 - [aws-lambda-mirror-dns-function](https://github.com/aws-samples/aws-lambda-mirror-dns-function) - AWS Lambda function to mirror DNS zone from on-premises DNS server to Route 53 private hosted zone.
