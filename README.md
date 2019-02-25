@@ -23,6 +23,7 @@ AWS Lambda function to authorize the client IP for an EC2 security group.
 - [bucket-owner-full-control](https://github.com/blueimp/aws-lambda/tree/master/bucket-owner-full-control) - 
 AWS Lambda function to grant the bucket owner full control over an S3 object.
 - [bucket-antivirus-function](https://github.com/upsidetravel/bucket-antivirus-function) - Scan new objects added to any s3 bucket using AWS Lambda.
+- [clear-lambda-storage](https://github.com/epsagon/clear-lambda-storage) - Removes old versions of Lambda functions of Code Storage.
 - [cloudfront-auth](https://github.com/Widen/cloudfront-auth) - An AWS CloudFront Lambda@Edge function to authenticate requests using Google Apps, Microsoft, and GitHub login.
 - [cloudfront-forwarded-host](https://github.com/blueimp/aws-lambda/tree/master/cloudfront-forwarded-host) - AWS Lambda@Edge function to forward the Host header as X-Forwarded-Host to a CloudFront origin.
 - [cloudfront-security-headers](https://github.com/blueimp/aws-lambda/tree/master/cloudfront-security-headers) - 
